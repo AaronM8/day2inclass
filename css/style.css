@@ -1,0 +1,33 @@
+.blue{
+  height: 100px;
+  background-color: blue;
+  border: 2px solid #000
+}
+
+.green{
+height: 25px;
+background-color: green;
+border: 2px solid #000
+}
+
+.red{
+  height: 150px;
+  background-color: red;
+  border: 2px solid #000
+}
+
+.turquoise{
+height: 150px;
+background-color: turquoise;
+}
+
+.orange{
+  height: 125px;
+  background-color: orange;
+  border: 2px solid #000;
+}
+
+footer {
+  background-color: #000;
+  height: 25px;
+}
